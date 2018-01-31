@@ -32,7 +32,7 @@ public class HelloTest {
 
 		text = driver.findElement(By.xpath("html/body/h2"));
 		Assert.assertEquals(driver.getTitle(), "");
-		System.out.println("Current Test Passed");
+		System.out.println("Current Deploy Test Passed");
 
 	}
 
