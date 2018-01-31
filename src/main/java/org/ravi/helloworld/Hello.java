@@ -9,5 +9,5 @@ public class Hello {
 		{msg = "hello Sreenath welcome to SonarQube class";}
 		return msg;
 
-	}
+	
 }
