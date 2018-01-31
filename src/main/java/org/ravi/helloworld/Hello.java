@@ -6,7 +6,7 @@ public class Hello {
 	if (message != null && !message.isEmpty())
 		msg= message;
 	else
-		{msg = "hello Sreenath welcome to SonarQube class";}
+		{messsg = "hello Sreenath welcome to SonarQube class";}
 		return msg;
 
 }
