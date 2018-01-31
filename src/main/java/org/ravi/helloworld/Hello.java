@@ -3,7 +3,7 @@ package org.ravi.helloworld;
 public class Hello {
 	
 	public String displayHelloMessage(String message){
-		message = "hello Sreenath Welcome to DevOps training now";
+		message = "hello Sreenath today's class is on SonarQue Qty Analysis";
 		return message;
 	}
 
