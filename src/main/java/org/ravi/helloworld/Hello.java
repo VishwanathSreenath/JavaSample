@@ -7,7 +7,7 @@ public class Hello {
 		msg= message;
 	else
 		{message = "hello Sreenath welcome to SonarQube class";}
-		return meg;
+		return msg;
 
 }
 }
